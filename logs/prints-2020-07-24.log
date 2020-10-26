@@ -1,0 +1,5 @@
+09:51:29.083 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - User is clicking on Settings
+09:51:31.884 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - User is clicking on Add New Row + Button
+18:42:33.729 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+18:42:49.201 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the UserName
+18:42:49.628 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - UserName is enterd

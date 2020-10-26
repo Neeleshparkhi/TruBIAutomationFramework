@@ -1,0 +1,5 @@
+09:51:16.259 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - UserName is enterd
+09:51:16.608 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - Please Enter the Password
+09:51:16.713 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - Paswword is Enterd
+09:51:16.794 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - User Cliced on Login Button
+09:51:17.177 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - User Clicked Setting Icon From HomePage

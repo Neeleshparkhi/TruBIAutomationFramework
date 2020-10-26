@@ -1,0 +1,936 @@
+12:40:27.799 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Paswword is Enterd
+12:40:28.053 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - User Cliced on Login Button
+12:40:30.292 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Program is clicking on Group
+12:47:07.976 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+16:19:37.833 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+16:20:09.171 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Clicking on UserName
+16:20:09.384 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the UserName
+16:20:10.032 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - UserName is enterd
+16:20:10.711 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the Password
+16:20:10.779 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Paswword is Enterd
+16:20:10.881 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - User Cliced on Login Button
+16:20:11.120 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Program is clicking on Group
+08:57:09.586 [main] INFO  com.automation.loginpage.Test.ForgotPasswordTest - Browser is invoke and Launched
+08:57:57.089 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Browser invoked and Launched
+08:58:57.012 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Entering the URL in Browser
+08:59:07.314 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+09:01:30.097 [main] INFO  com.automation.loginpage.Test.TruBISettingUserManagerTest - Browser is invoke and Launched
+09:17:30.424 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Browser invoked and Launched
+09:18:03.434 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Entering the URL in Browser
+09:18:11.423 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+09:19:41.892 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on UserName input box.
+09:19:42.317 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on UserName input box.
+09:19:42.318 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Entering the UserName.
+09:19:42.931 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the UserName.
+09:19:42.952 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicking on Password input box.
+09:19:43.044 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicked on Password input box.
+09:19:43.045 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User entring the Password.
+09:19:43.130 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the Password.
+09:19:43.147 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Login Button.
+09:19:43.239 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on Login Button.
+09:19:43.239 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Alert OK Button.
+09:20:10.862 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking User Profile.
+09:20:10.972 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked User Profile.
+09:20:10.972 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking Log Out.
+09:20:11.982 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Log out from the application.
+09:20:12.138 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Clicking on UserName
+09:20:12.287 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the UserName
+09:20:12.461 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - UserName is enterd
+09:20:12.646 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the Password
+09:20:12.744 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Password is Enterd
+09:20:12.869 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - User Clicked on Login Button
+09:21:28.642 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Program is clicking on Group
+09:28:57.456 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Browser invoked and Launched
+09:30:53.717 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Entering the URL in Browser
+09:30:59.956 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+09:32:36.267 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on UserName input box.
+09:32:36.493 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on UserName input box.
+09:32:36.493 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Entering the UserName.
+09:32:36.578 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the UserName.
+09:32:36.603 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicking on Password input box.
+09:32:36.689 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicked on Password input box.
+09:32:36.689 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User entring the Password.
+09:32:36.768 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the Password.
+09:32:36.787 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Login Button.
+09:32:36.880 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on Login Button.
+09:32:36.880 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Alert OK Button.
+09:32:37.107 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking User Profile.
+09:33:02.299 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked User Profile.
+09:33:02.299 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking Log Out.
+09:33:03.296 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Log out from the application.
+09:33:03.903 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Clicking on UserName
+09:33:03.998 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the UserName
+09:33:04.075 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - UserName is enterd
+09:33:04.198 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the Password
+09:33:04.275 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Password is Enterd
+09:33:04.387 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - User Clicked on Login Button
+09:33:16.910 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Program is clicking on Group
+15:10:45.407 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Browser invoked and Launched
+15:11:31.263 [main] INFO  com.automation.loginpage.Test.LoginpageTest - Entering the URL in Browser
+15:11:33.894 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on UserName input box.
+15:11:34.209 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on UserName input box.
+15:11:34.209 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Entering the UserName.
+15:11:34.550 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the UserName.
+15:11:34.568 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicking on Password input box.
+15:11:34.749 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Clicked on Password input box.
+15:11:34.750 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User entring the Password.
+15:11:34.822 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Enterd the Password.
+15:11:34.841 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Login Button.
+15:11:34.933 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked on Login Button.
+15:11:34.934 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking on Alert OK Button.
+15:11:35.263 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking User Profile.
+15:11:59.626 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicked User Profile.
+15:11:59.626 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User clicking Log Out.
+15:12:02.855 [main] INFO  com.automation.loginpage.Test.LoginpageTest - User Log out from the application.
+15:12:16.373 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Browser is Invoke and Launching
+15:12:31.000 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Clicking on UserName
+15:12:31.076 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the UserName
+15:12:31.147 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - UserName is enterd
+15:12:31.255 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Please Enter the Password
+15:12:31.322 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Password is Enterd
+15:12:31.431 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - User Clicked on Login Button
+15:12:41.771 [main] INFO  com.automation.loginpage.Test.TruBIGroupTest - Program is clicking on Group
+16:36:40.411 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - Please Enter the UserName
+16:36:41.173 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - UserName is enterd
+16:36:41.601 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - Please Enter the Password
+16:36:42.110 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - Paswword is Enterd
+16:36:42.930 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Cliced on Login Button
+17:14:38.175 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:14:38.725 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:14:38.725 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:14:38.964 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:14:38.983 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:14:39.076 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:14:39.076 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:14:39.185 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:14:39.203 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:14:39.420 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:14:39.420 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:31:11.297 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:31:11.577 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:31:11.577 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:31:11.678 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:31:11.701 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:31:11.827 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:31:11.827 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:31:11.928 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:31:11.951 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:31:12.062 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:31:12.062 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:46:07.399 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:46:08.004 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:46:08.004 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:46:08.421 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:46:08.446 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:46:08.539 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:46:08.539 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:46:08.615 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:46:08.637 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:46:08.876 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:46:08.877 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+19:43:24.608 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+19:43:25.013 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+19:43:25.014 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+19:43:25.162 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+19:43:25.184 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+19:43:25.275 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+19:43:25.276 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+19:43:25.353 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+19:43:25.373 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+19:43:25.479 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+19:43:25.480 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+20:44:15.255 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+20:44:15.661 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+20:44:15.662 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+20:44:15.777 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+20:44:15.803 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+20:44:15.908 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+20:44:15.908 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+20:44:16.038 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+20:44:16.061 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+20:44:16.181 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+20:44:16.182 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:00:57.210 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:00:57.468 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:00:57.468 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:00:57.565 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:00:57.600 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:00:57.723 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:00:57.723 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:00:57.820 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:00:57.838 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:00:57.961 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:00:57.961 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:10:40.544 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:10:40.882 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:10:40.882 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:10:40.949 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:10:40.975 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:10:41.083 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:10:41.084 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:10:41.158 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:10:41.179 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:10:41.270 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:10:41.270 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:13:55.600 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:13:57.020 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:13:57.020 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:13:57.091 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:13:57.118 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:13:57.207 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:13:57.207 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:13:57.281 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:13:57.301 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:13:57.393 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:13:57.394 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:14:59.648 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:15:00.187 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:15:00.187 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:15:00.565 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:15:00.588 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:15:00.685 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:15:00.685 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:15:00.762 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:15:00.780 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:15:00.872 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:15:00.873 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:22:20.353 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:22:21.175 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:22:21.176 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:22:21.248 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:22:21.271 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:22:21.363 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:22:21.363 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:22:21.443 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:22:21.461 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:22:21.549 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:22:21.549 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:37:48.479 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:37:48.873 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:37:48.873 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:37:48.962 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:37:48.989 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:37:49.088 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:37:49.089 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:37:49.161 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:37:49.179 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:37:49.271 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:37:49.272 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:46:56.960 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:46:57.353 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:46:57.353 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:46:57.429 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:46:57.449 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:46:57.544 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:46:57.545 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:46:57.613 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:46:57.629 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:46:57.716 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:46:57.716 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+21:50:47.618 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+21:50:47.898 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+21:50:47.899 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+21:50:47.971 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+21:50:47.996 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+21:50:48.127 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+21:50:48.127 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+21:50:48.212 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+21:50:48.235 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+21:50:48.345 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+21:50:48.346 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:44:34.973 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+17:45:05.591 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+18:15:16.563 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+18:15:37.301 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+18:18:29.064 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+18:18:50.606 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+18:29:54.147 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+18:29:57.300 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+18:32:04.919 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+18:32:08.994 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+07:47:16.714 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched
+07:47:40.230 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser
+07:47:41.478 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Clicking on the Privacy Link
+07:47:45.367 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Clicked on the Privacy Link
+07:47:45.642 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Switching to the Privacy page
+07:47:45.714 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Switched to the Privacy page
+07:47:48.715 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Getting Privacy page Title
+07:55:57.305 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Browser is invoke and Launched
+07:56:08.467 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the UserName
+07:56:09.000 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - UserName is enterd
+07:56:09.114 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the Password
+07:56:09.201 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Paswword is Enterd
+07:56:09.378 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Cliced on Login Button
+07:56:16.640 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Clicked Setting Icon From HomePage
+07:56:16.912 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Settings
+07:56:23.257 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Add New Row + Button
+08:31:50.750 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Browser is invoke and Launched
+08:31:55.664 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the UserName
+08:31:57.535 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - UserName is enterd
+08:31:57.706 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the Password
+08:31:57.832 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Paswword is Enterd
+08:31:57.915 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Cliced on Login Button
+08:32:03.288 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Clicked Setting Icon From HomePage
+08:32:03.380 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Settings
+08:32:08.741 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Add New Row + Button
+11:39:14.290 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+11:39:33.965 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+11:39:34.283 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+11:39:34.431 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+11:39:34.507 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Paswword is Enterd
+11:39:34.791 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Cliced on Login Button
+11:44:17.240 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+11:44:36.137 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+11:44:36.346 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+11:44:36.449 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+11:44:36.520 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Paswword is Enterd
+11:44:36.643 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Cliced on Login Button
+11:47:50.538 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+11:48:16.782 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+11:48:16.855 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+11:48:16.962 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+11:48:17.036 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Paswword is Enterd
+11:48:17.135 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Cliced on Login Button
+11:58:11.295 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+11:58:29.229 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+11:58:30.309 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+11:58:30.670 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+11:58:30.881 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+11:58:31.321 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+12:04:45.222 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+12:04:56.220 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+12:04:56.410 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+12:04:57.074 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+12:04:57.270 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+12:04:57.380 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+14:17:40.327 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+14:19:21.222 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+14:19:21.469 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+14:19:21.683 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+14:19:21.784 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+14:19:21.931 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+14:22:25.969 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+14:22:36.230 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+14:22:36.417 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+14:22:36.548 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+14:22:36.652 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+14:22:36.782 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+14:33:35.913 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+14:33:54.642 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+14:33:54.901 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+14:33:55.076 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+14:33:55.155 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+14:33:55.268 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+15:17:26.930 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+15:18:22.755 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+15:18:25.489 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+15:18:25.816 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+15:18:26.643 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+15:18:26.974 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+15:19:00.127 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+15:19:00.315 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+15:19:02.684 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+15:19:32.247 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+15:19:33.297 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+15:19:33.369 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+15:27:58.066 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+15:29:21.734 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+15:29:22.241 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+15:29:22.369 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+15:29:22.456 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+15:29:22.581 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+15:30:18.209 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+15:30:18.288 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+15:30:20.320 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+16:06:35.592 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+08:22:51.190 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+08:22:59.745 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+08:22:59.993 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+08:23:00.118 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+08:23:00.193 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+08:23:00.312 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+08:23:05.487 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+08:23:05.573 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+08:23:07.612 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+08:23:10.448 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+08:23:11.504 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+08:23:12.908 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+08:23:13.962 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+08:23:14.062 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+08:23:14.098 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+08:37:49.772 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+08:38:00.710 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+08:38:01.055 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+08:38:01.190 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+08:38:01.302 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+08:38:01.440 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+08:38:06.304 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+08:38:06.432 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+08:38:08.500 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+08:38:14.584 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+08:38:15.625 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+08:38:17.128 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+08:38:18.164 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+08:38:18.268 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+08:38:18.315 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+08:38:18.525 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Save Button.
+09:09:56.910 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:10:04.845 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:10:05.714 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:10:05.864 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:10:05.973 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:10:06.188 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:10:12.353 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:10:12.481 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:10:14.525 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:10:18.053 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+09:10:19.097 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+09:10:20.371 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+09:10:21.407 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+09:10:21.504 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+09:10:21.545 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+09:10:21.758 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Save Button.
+09:11:18.582 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:11:29.769 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:11:30.117 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:11:30.242 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:11:30.315 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:11:30.425 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:11:37.239 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:11:37.323 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:11:39.361 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:11:43.026 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+09:11:44.206 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+09:11:45.465 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+09:11:46.504 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+09:11:46.604 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+09:11:46.647 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+09:11:46.871 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Save Button.
+09:16:52.848 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:16:57.817 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:16:57.933 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:16:58.072 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:16:58.241 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:16:58.356 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:17:02.480 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:17:02.556 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:17:04.587 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:17:09.469 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+09:17:10.509 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+09:17:11.698 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+09:17:12.739 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+09:17:12.845 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+09:17:12.885 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+09:17:13.128 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Save Button.
+09:20:35.515 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:20:40.686 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:20:41.308 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:20:41.463 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:20:41.539 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:20:42.185 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:20:51.681 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:20:51.746 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:20:53.775 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:22:33.863 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:22:38.883 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:22:38.971 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:22:39.085 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:22:39.170 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:22:39.277 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:22:44.346 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:22:44.412 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:22:46.445 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:24:04.255 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:24:07.087 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:24:07.157 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:24:07.268 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:24:07.344 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:24:07.448 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:24:11.528 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:24:11.592 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:24:13.623 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:25:46.570 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Browser is invoke and Launched
+09:25:49.845 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the UserName
+09:25:49.915 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - UserName is enterd
+09:25:50.024 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Please Enter the Password
+09:25:50.095 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Password is Enterd
+09:25:50.199 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - User Clicked on Login Button
+09:25:54.456 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting Icon.
+09:25:54.538 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting Icon.
+09:25:56.582 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Setting option.
+09:25:59.140 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on Setting option.
+09:26:00.179 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on UserRole option.
+09:26:01.185 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on UserRole option.
+09:26:02.222 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on AddUser Role option.
+09:26:02.323 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicked on AddUser Role option.
+09:26:02.363 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Sending the User Role Name.
+09:26:02.595 [main] INFO  com.automation.TruBISettingsPage.Test.TruBIUserRoleTest - Clicking on Save Button.
+10:33:32.631 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Browser is Invoke and Launching
+10:34:59.927 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Clicking on UserName
+10:35:00.870 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the UserName
+10:35:01.423 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - UserName is enterd
+10:35:01.565 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the Password
+10:35:01.711 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Password is Enterd
+10:35:01.832 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - User Clicked on Login Button
+10:35:02.562 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Program is clicking on Group
+16:32:12.758 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Browser is Invoke and Launching
+16:32:23.029 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Clicking on UserName
+16:32:24.227 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the UserName
+16:32:24.646 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - UserName is enterd
+16:32:24.772 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the Password
+16:32:24.772 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Password is Enterd
+16:32:25.039 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - User Clicked on Login Button
+16:32:35.238 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Program is clicking on Group
+20:30:23.038 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+20:31:04.101 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+20:31:07.545 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on UserName input box.
+20:31:07.950 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on UserName input box.
+20:31:07.950 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Entering the UserName.
+20:31:08.295 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the UserName.
+20:31:08.315 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicking on Password input box.
+20:31:08.419 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicked on Password input box.
+20:31:08.419 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User entring the Password.
+20:31:08.497 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the Password.
+20:31:08.516 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Login Button.
+20:31:08.692 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on Login Button.
+20:31:08.692 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Alert OK Button.
+20:31:45.585 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking User Profile.
+20:31:45.706 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked User Profile.
+20:31:45.706 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking Log Out.
+20:31:54.434 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Log out from the application.
+11:22:35.724 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+11:23:11.769 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+11:23:13.406 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on UserName input box.
+11:23:13.647 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on UserName input box.
+11:23:13.648 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Entering the UserName.
+11:23:13.863 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the UserName.
+11:23:13.892 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicking on Password input box.
+11:23:13.997 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicked on Password input box.
+11:23:13.997 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User entring the Password.
+11:23:14.075 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the Password.
+11:23:14.093 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Login Button.
+11:23:14.202 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on Login Button.
+11:23:14.202 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Alert OK Button.
+11:23:37.196 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking User Profile.
+11:23:37.334 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked User Profile.
+11:23:37.334 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking Log Out.
+11:23:39.120 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Log out from the application.
+12:58:02.479 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+13:00:27.771 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+13:00:29.178 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on UserName input box.
+13:00:29.341 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on UserName input box.
+13:00:29.341 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Entering the UserName.
+13:00:29.433 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the UserName.
+13:00:29.466 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicking on Password input box.
+13:00:29.551 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicked on Password input box.
+13:00:29.551 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User entring the Password.
+13:00:29.631 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the Password.
+13:00:29.649 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Login Button.
+13:00:29.730 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on Login Button.
+13:00:29.854 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking User Profile.
+13:02:54.793 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked User Profile.
+13:02:54.793 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking Log Out.
+13:03:06.479 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Log out from the application.
+13:05:56.671 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+13:06:59.131 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+13:07:00.645 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on UserName input box.
+13:07:00.800 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on UserName input box.
+13:07:00.800 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Entering the UserName.
+13:07:00.883 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the UserName.
+13:07:00.909 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicking on Password input box.
+13:07:00.995 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicked on Password input box.
+13:07:00.995 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User entring the Password.
+13:07:01.068 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the Password.
+13:07:01.086 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Login Button.
+13:07:01.174 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on Login Button.
+13:07:01.260 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking User Profile.
+13:07:27.438 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked User Profile.
+13:07:27.438 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking Log Out.
+12:13:29.508 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Browser invoked and Launched
+12:14:04.395 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Entering the URL in Browser
+12:35:46.820 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Browser invoked and Launched
+12:37:52.048 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Entering the URL in Browser
+16:16:26.508 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched.
+16:18:02.426 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser.
+16:22:43.076 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched.
+16:24:25.861 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser.
+16:32:19.893 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched.
+16:32:50.331 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser.
+16:32:55.171 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Clicked on Terms
+16:38:30.213 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched.
+16:39:05.882 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser.
+16:39:07.307 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Clicked on Terms
+16:41:33.799 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Browser invoked and Launched.
+16:42:01.655 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Entering the URL in Browser.
+16:42:03.034 [main] INFO  com.automation.TruBILandingPage.Test.TruBIPrivacyTest - Clicked on Terms
+17:28:57.902 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:30:24.295 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:30:25.164 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:30:25.324 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:30:25.434 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:30:25.741 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:32:43.467 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:35:23.695 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:35:23.892 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:35:24.056 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:35:24.120 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:35:24.221 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+20:38:58.526 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+20:39:07.068 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+20:39:07.409 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+20:39:07.536 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+20:39:07.650 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+20:39:07.994 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+20:40:24.213 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+20:40:28.818 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+20:40:34.893 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on UserName input box.
+20:40:35.489 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on UserName input box.
+20:40:35.489 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Entering the UserName.
+20:40:35.654 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the UserName.
+20:40:35.675 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicking on Password input box.
+20:40:35.808 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Clicked on Password input box.
+20:40:35.808 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User entring the Password.
+20:40:35.877 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User Enterd the Password.
+20:40:35.894 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicking on Login Button.
+20:40:36.071 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - User clicked on Login Button.
+21:03:00.911 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:03:04.360 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:03:05.434 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:03:05.803 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:03:05.880 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:03:06.315 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:03:09.317 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+21:05:22.039 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:05:24.608 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:05:24.687 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:05:24.806 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:05:24.889 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:05:25.022 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:05:28.023 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+21:06:46.983 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:06:51.379 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:06:51.533 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:06:51.685 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:06:51.758 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:06:51.863 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:06:54.864 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+21:12:08.685 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:12:15.844 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:12:16.192 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:12:16.292 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:12:16.363 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:12:16.470 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:12:19.471 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+21:38:38.581 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:38:50.082 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:38:50.721 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:38:50.904 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:38:50.989 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:38:51.093 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:38:54.096 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+21:46:04.487 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+21:46:14.377 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+21:46:14.747 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+21:46:14.995 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+21:46:15.071 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+21:46:15.223 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+21:46:18.225 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+09:59:24.855 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:00:23.525 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:00:23.682 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:00:23.793 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:00:23.865 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:00:23.993 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:00:26.994 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:02:22.076 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:03:25.356 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:03:25.466 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:03:25.590 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:03:25.675 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:03:25.784 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:03:28.785 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:13:32.815 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:14:24.452 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:14:24.550 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:14:24.655 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:14:24.765 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:14:24.888 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:14:27.889 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:26:52.731 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:27:23.351 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:27:23.479 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:27:23.641 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:27:23.754 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:27:23.862 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:27:26.863 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:30:08.724 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:30:53.532 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:30:53.775 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:30:53.920 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:30:54.044 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:30:54.156 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:30:57.156 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:50:04.196 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:50:16.157 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:50:16.857 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:50:16.982 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:50:17.174 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:50:17.355 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:50:20.356 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:52:04.313 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:52:08.331 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:52:08.451 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:52:08.631 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:52:08.749 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:52:09.537 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:52:12.537 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:53:27.949 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:53:30.944 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:53:31.052 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:53:31.192 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:53:31.271 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:53:31.385 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:53:34.388 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:55:09.265 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:55:13.037 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:55:13.110 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:55:13.222 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:55:13.314 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:55:13.451 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:55:16.452 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+10:56:14.568 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+10:56:18.781 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+10:56:18.862 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+10:56:18.973 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+10:56:19.049 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+10:56:19.156 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+10:56:22.160 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+11:02:49.651 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+11:03:03.021 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+11:03:03.469 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+11:03:03.632 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+11:03:03.718 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+11:03:04.332 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+11:03:07.334 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+11:59:03.333 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+11:59:16.473 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+11:59:16.910 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+11:59:17.035 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+11:59:17.141 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+11:59:17.495 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+11:59:20.497 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+12:24:23.018 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+12:24:36.116 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+12:24:36.466 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+12:24:36.661 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+12:24:36.738 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+12:24:36.929 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+12:24:39.929 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:05:46.015 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:06:08.197 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:06:08.562 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:06:08.726 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:06:08.864 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:06:09.051 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:06:12.052 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:10:35.495 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:10:47.547 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:10:47.673 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:10:47.784 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:10:47.872 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:10:47.987 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:10:50.989 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:15:29.883 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:15:56.664 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:15:58.459 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:15:58.646 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:15:59.492 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:16:01.993 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:16:04.995 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:18:17.920 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:18:28.574 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:18:28.839 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:18:28.965 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:18:29.033 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:18:29.462 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:18:32.463 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:23:13.964 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Browser is invoke and Launched
+17:23:25.430 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the UserName
+17:23:25.733 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - UserName is enterd
+17:23:25.925 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Please Enter the Password
+17:23:26.056 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Password is Enterd
+17:23:26.289 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User Clicked on Login Button
+17:23:29.290 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - User clicking on Alert OK Button.
+17:23:44.801 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Light
+17:23:51.046 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Dark
+17:23:53.363 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Light Compact
+17:23:55.856 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Dark Compact
+17:23:58.176 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Carmine
+17:24:00.832 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Soft Blue
+17:24:03.012 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Green Mist
+17:24:05.147 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Corporate Green
+17:24:07.433 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Business Red
+17:24:09.555 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Leaf Bright
+17:24:12.428 [main] INFO  com.automation.TruBIUserProfile.TruBIMyThemesTest - Selecting the Theme : Marine Blue
+09:49:52.738 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+09:50:03.777 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+09:54:08.917 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+09:54:17.350 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+09:55:38.444 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+09:55:40.028 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+09:58:46.873 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+09:58:49.139 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+11:54:18.957 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+11:54:31.454 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+12:08:23.167 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+12:08:33.697 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+12:10:48.832 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+12:11:02.520 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+12:11:08.084 [main] INFO  com.automation.Configuration.BaseConfig - Trying to find element : 
+16:21:12.322 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:21:40.494 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:21:46.719 [main] INFO  com.automation.Configuration.BaseConfig - Trying to find element :
+16:28:21.734 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:28:31.169 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:28:36.483 [main] INFO  com.automation.Configuration.BaseConfig - Trying to find element : 
+16:31:28.139 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:31:40.475 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:31:45.821 [main] INFO  com.automation.Configuration.BaseConfig - Trying to find element : 
+16:34:45.428 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:34:55.655 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:35:00.731 [main] INFO  com.automation.Configuration.BaseConfig - Trying to find element : 
+16:48:17.993 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:48:29.854 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:48:35.503 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+16:51:25.278 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:51:35.148 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:51:40.466 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+16:51:40.466 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+16:52:40.169 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:52:46.354 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:52:51.580 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+16:52:51.580 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+08:58:18.734 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Browser is Invoke and Launching
+08:58:40.420 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Clicking on UserName
+08:58:41.141 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the UserName
+08:58:41.395 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - UserName is enterd
+08:58:41.550 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Please Enter the Password
+08:58:41.669 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Password is Enterd
+08:58:41.848 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - User Clicked on Login Button
+08:58:54.969 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Program is clicking on Group
+09:36:28.621 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+09:36:28.812 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+09:36:28.812 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+09:36:28.879 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+09:36:28.902 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+09:36:28.989 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+09:36:28.989 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+09:36:29.060 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+09:36:29.080 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+09:36:29.180 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+09:36:29.181 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:24:10.521 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:24:10.957 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:24:10.957 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:24:11.169 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:24:11.201 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:24:11.289 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:24:11.290 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:24:11.366 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:24:11.384 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:24:11.614 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:24:11.614 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:27:14.844 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:27:14.942 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:27:14.942 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:27:15.016 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:27:15.040 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:27:15.128 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:27:15.128 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:27:15.197 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:27:15.235 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:27:15.323 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:27:15.323 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:36:24.302 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:36:24.927 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:36:24.927 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:36:25.010 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:36:25.028 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:36:25.105 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:36:25.105 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:36:25.185 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:36:25.204 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:36:25.297 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:36:25.299 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:38:24.403 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:38:24.695 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:38:24.695 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:38:24.765 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:38:24.789 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:38:24.991 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:38:24.992 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:38:25.063 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:38:25.080 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:38:25.194 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:38:25.194 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+17:42:19.725 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+17:42:21.352 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+17:42:21.352 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+17:42:21.576 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+17:42:21.601 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+17:42:21.696 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+17:42:21.697 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+17:42:21.766 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+17:42:21.785 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+17:42:21.899 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+17:42:21.932 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+18:00:17.671 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on UserName input box.
+18:00:18.269 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on UserName input box.
+18:00:18.269 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Entering the UserName.
+18:00:18.422 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the UserName.
+18:00:18.481 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicking on Password input box.
+18:00:18.571 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Clicked on Password input box.
+18:00:18.572 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User entring the Password.
+18:00:18.662 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User Enterd the Password.
+18:00:18.681 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Login Button.
+18:00:18.776 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicked on Login Button.
+18:00:18.776 [main] INFO  com.automation.TruBIHomepage.Test.AllDashboardDropDownTest - User clicking on Alert OK Button.
+13:07:49.796 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Browser is invoke and Launched
+13:11:39.549 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the UserName
+13:11:40.270 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - UserName is enterd
+13:11:40.529 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Please Enter the Password
+13:11:40.696 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - Paswword is Enterd
+13:11:40.931 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Cliced on Login Button
+13:11:49.153 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User Clicked Setting Icon From HomePage
+13:13:08.762 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Settings
+13:13:18.937 [main] INFO  com.automation.TruBISettingsPage.Test.TruBISettingUserManagerTest - User is clicking on Add New Row + Button
+16:36:12.459 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:37:04.811 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:37:10.150 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+16:37:10.150 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+21:08:51.343 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+21:08:55.864 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+21:09:01.066 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+21:09:01.066 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+21:18:27.803 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+21:19:06.667 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+21:19:11.924 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+21:19:11.924 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+21:20:43.936 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+21:20:56.807 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+21:21:01.852 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+21:21:01.852 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+17:25:08.013 [main] INFO  com.automation.TruBILandingPage.Test.ForgotPasswordTest - Browser is invoke and Launched
+17:25:20.727 [main] INFO  com.automation.TruBILandingPage.Test.ForgotPasswordTest - Click on Forgot Password link
+17:25:21.037 [main] INFO  com.automation.TruBILandingPage.Test.ForgotPasswordTest - Entering The User Email ID
+17:25:21.267 [main] INFO  com.automation.TruBILandingPage.Test.ForgotPasswordTest - Click on Recover Button
+17:27:09.501 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Browser invoked and Launched
+17:27:17.046 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Entering the URL in Browser
+17:36:32.694 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Browser invoked and Launched
+17:37:03.903 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginPageUITest - Entering the URL in Browser
+16:34:01.152 [main] INFO  com.automation.TruBIHomepage.Test.TruBIGroupTest - Browser is Invoke and Launching
+16:39:38.959 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
+16:44:22.364 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Entering the URL in Browser
+16:44:28.725 [main] INFO  com.automation.PageObject.LoginPage - Click on User Name
+16:44:28.725 [main] INFO  com.automation.PageObject.LoginPage - Scroll the Page
+16:46:11.188 [main] INFO  com.automation.loginpage.Test.TruBIApplicationLoginTest - Browser invoked and Launched
